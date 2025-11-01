@@ -116,7 +116,7 @@
     "start-server-and-test": "^1.11.3",
     "supertest": "^4.0.2",
     "webpack-dev-middleware": "^5.3.4",
-    "website-scraper": "^4.2.0",
+    "website-scraper": "^6.0.0",
     "dedent": "^0.7.0",
     "nock": "^13.0.4"
   },
